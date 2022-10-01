@@ -9,6 +9,7 @@ const Router = () => {
     <FirebaseApp>
       {/* <DataContextProvider> */}
         <Routes>
+          <Route path="/" element={<Form />} />
           <Route path="/form" element={<Form />} />
         </Routes>
       {/* </DataContextProvider> */}
