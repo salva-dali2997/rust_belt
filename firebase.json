@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "public",
+    "site": "rustbelt-commercial-hauling",
     "ignore": [
       "firebase.json",
       "**/.*",
